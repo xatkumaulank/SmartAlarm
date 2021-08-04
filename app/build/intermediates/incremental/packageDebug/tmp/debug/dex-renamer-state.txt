@@ -1,0 +1,4 @@
+#Wed Aug 04 08:26:14 ICT 2021
+base.0=C\:\\Users\\xatku\\Downloads\\Smart-Alarm-main\\Smart-Alarm-main\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
